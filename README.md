@@ -10,7 +10,6 @@ Q-learning finds the optimal policy by learning the Q-function, aka (action, sta
 However, due to the very large state space of the Lunar Lander environment, learning Q(s,a) for every state s is not feasible. 
 Instead, in DQN we approximate the Q-function with a neural network, which takes the state as input and returns the Q-value for each of the 4 actions.
 The weights and biases of the NN are the parameters being learned, and not the actual Q-function for every state. This reduces the complexity of the algorithm
-
-![alt text](https://github.com/Morales97/RL_Lunar_Lander/blob/main/DQN/DQN_algorithm.png?raw=true)
-
-
+<p align="center">
+<img src="/DQN/DQN_algorithm.png" width="600"/>
+<p/>
