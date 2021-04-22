@@ -1,4 +1,4 @@
-# RL_Lunar_Lander
+# Reinforcement Learning: Lunar Lander
 Lunar Lander environment by openAI's gym (https://gym.openai.com/envs/LunarLander-v2/) solved using 3 different algorithms: DQN, DDPG and PPO.
 
 This project belongs to the course EL2805 Reinforcement Learning at KTH.
